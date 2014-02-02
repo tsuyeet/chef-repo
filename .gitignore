@@ -1,2 +1,4 @@
 /cookbooks/
-/.chef/tsuyeet.pem
+/vendor/
+/Gemfile.lock
+/.bundle
